@@ -83,9 +83,10 @@ li:hover ul{
 p{
     text-align: center;
     margin: 250px 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 24px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 48px;
     color: black;
+    border-bottom: 2px black solid;
 }
 a{
     text-decoration: none;

@@ -62,12 +62,10 @@ p{
     border: 10px solid black;
     height: 750px;
     width: 500px;
-   margin-top: -100px;
-   margin-left: -150px;
    display: block;
 } 
 .paragraph{
     font-size: 50px;
     border: 10px solid black ;
-    margin-right: 40px;
+    margin-right: 200px;
 }
